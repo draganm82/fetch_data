@@ -1,0 +1,14 @@
+{
+  "name": "kick_ass-example",
+  "version": "0.0.2",
+  "description": "The await and async function",
+  "main": "for_of.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dragan Milenkovic",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
